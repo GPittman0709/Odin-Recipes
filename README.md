@@ -1,0 +1,3 @@
+This was just a small project to show what I've learned so far in the form of a simple recipe site. It might look really simple and as if it only took maybe an hour to do, but it was actually a kind of tough at first when I realized just how much I'd began to forget already. This project really helped me understand just how important every tiny bit of information that the course teaches truly is. I definitely underestimated the importance of taking notes just because I found the material easy enough to understand when I'd first read through it.
+
+By completing this project, I help to demonstrate my understanding of web development fundamentals, as well as my ability to use that knowledge in order to built the aforementioned site. 
